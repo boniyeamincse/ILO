@@ -1,0 +1,215 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "activities": "What We Do",
+    "gallery": "Gallery",
+    "team": "Team",
+    "getInvolved": "Get Involved",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Building a Better Society Together",
+    "subtitle": "ILF (Impact Life Foundation) is a non-political social organization dedicated to uplifting communities through education, healthcare, and sustainable development.",
+    "joinUs": "Join Us",
+    "donate": "Donate Now",
+    "learnMore": "Learn More"
+  },
+  "stats": {
+    "volunteers": "Volunteers",
+    "communities": "Communities Served",
+    "projects": "Projects Completed",
+    "beneficiaries": "Lives Impacted"
+  },
+  "about": {
+    "title": "About ILF",
+    "subtitle": "Who we are and why we exist",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower marginalized communities through sustainable social programs that foster education, health, economic growth, and human rights — creating lasting change from within communities."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "A just, equitable, and compassionate society where every individual has the opportunity to thrive with dignity and purpose, free from poverty and injustice."
+    },
+    "overview": {
+      "title": "Organization Overview",
+      "description": "ILF (Impact Life Foundation) was established to serve as a bridge between donors and underserved communities. We operate through a nationwide network of dedicated volunteers across Bangladesh, running programs in education, health, poverty reduction, disaster relief, environment protection, and more."
+    },
+    "why": {
+      "title": "Why ILF Exists",
+      "description": "Millions of people across Bangladesh face extreme poverty, lack of education, and inadequate healthcare. ILF exists to be the change — mobilizing resources, raising awareness, and taking direct action to lift communities from despair to hope. We believe every life has immeasurable value."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "integrity": "Integrity",
+      "integrityDesc": "We act with honesty and transparency in everything we do.",
+      "compassion": "Compassion",
+      "compassionDesc": "We serve with empathy and genuine care for every person.",
+      "inclusion": "Inclusion",
+      "inclusionDesc": "We welcome everyone regardless of background or belief.",
+      "impact": "Impact",
+      "impactDesc": "We measure success by the real change we create."
+    }
+  },
+  "activities": {
+    "title": "What We Do",
+    "subtitle": "Our programs span ten key areas of community development — reaching those who need it most.",
+    "items": {
+      "education": {
+        "title": "Education Development",
+        "description": "Helping poor students with books, scholarships, and free coaching to break the cycle of poverty through knowledge."
+      },
+      "healthcare": {
+        "title": "Healthcare",
+        "description": "Free medical camps, blood donation drives, and health awareness campaigns for underserved communities across Bangladesh."
+      },
+      "poverty": {
+        "title": "Poverty Reduction",
+        "description": "Food distribution, job support, vocational training, and livelihood programs to uplift families from extreme poverty."
+      },
+      "disaster": {
+        "title": "Disaster Management",
+        "description": "Emergency relief and rehabilitation for victims of floods, cyclones, and other natural disasters with speed and care."
+      },
+      "environment": {
+        "title": "Environment Protection",
+        "description": "Tree plantation drives and anti-plastic campaigns to protect our natural environment for future generations."
+      },
+      "rights": {
+        "title": "Human Rights",
+        "description": "Advocating for women and children's rights and providing legal support and counseling to the vulnerable."
+      },
+      "youth": {
+        "title": "Youth Development",
+        "description": "IT skills training, freelancing workshops, and leadership programs empowering young people to shape their futures."
+      },
+      "culture": {
+        "title": "Cultural Activities",
+        "description": "Sports events, cultural programs, and community celebrations that foster unity and preserve heritage."
+      },
+      "moral": {
+        "title": "Moral & Religious Education",
+        "description": "Promoting Islamic values, ethics, and character development to build a morally strong and harmonious community."
+      },
+      "digital": {
+        "title": "Digital Awareness",
+        "description": "Cybersecurity awareness and digital literacy programs ensuring safe, productive internet usage for all ages."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Glimpses of our work — moments of impact captured across communities.",
+    "education": "Education Program",
+    "healthcare": "Medical Camp",
+    "poverty": "Food Distribution",
+    "disaster": "Disaster Relief",
+    "environment": "Tree Plantation",
+    "rights": "Rights Awareness",
+    "youth": "Youth Training",
+    "culture": "Cultural Event",
+    "moral": "Community Class",
+    "digital": "Digital Workshop",
+    "volunteer": "Volunteer Day",
+    "community": "Community Meeting"
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "subtitle": "Dedicated individuals working tirelessly for social change and community upliftment.",
+    "members": [
+      { "name": "Mohammad Rahman", "role": "Founder & Chairman" },
+      { "name": "Fatema Begum", "role": "Executive Director" },
+      { "name": "Abdullah Al-Hassan", "role": "Program Coordinator" },
+      { "name": "Nasrin Akter", "role": "Health Program Head" },
+      { "name": "Karim Ahmed", "role": "Education Director" },
+      { "name": "Sumaiya Islam", "role": "Youth Development Lead" },
+      { "name": "Rafiq Hossain", "role": "Finance Manager" },
+      { "name": "Tahmina Khatun", "role": "Communications Officer" }
+    ]
+  },
+  "getInvolved": {
+    "title": "Get Involved",
+    "subtitle": "Be part of the change — volunteer, donate, or partner with us to build a better Bangladesh.",
+    "volunteer": {
+      "title": "Volunteer With Us",
+      "subtitle": "Join our passionate network of volunteers and make a real difference on the ground.",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+880 1700-000000",
+      "area": "Area of Interest",
+      "message": "Why do you want to volunteer?",
+      "messagePlaceholder": "Tell us about your motivation and skills...",
+      "submit": "Submit Application",
+      "success": "Thank you! We'll review your application and be in touch soon.",
+      "error": "Something went wrong. Please try again.",
+      "areas": {
+        "education": "Education",
+        "healthcare": "Healthcare",
+        "environment": "Environment",
+        "youth": "Youth Development",
+        "disaster": "Disaster Relief",
+        "digital": "Digital Awareness",
+        "other": "Other"
+      }
+    },
+    "donate": {
+      "title": "Support Our Cause",
+      "subtitle": "Your donation makes a real, measurable difference.",
+      "description": "Every contribution — big or small — helps us reach more lives. Your support funds education programs, medical camps, disaster relief, and community development initiatives across Bangladesh.",
+      "cta": "Donate Now",
+      "contact": "For bank transfer or large donations, please contact us directly at info@ilf-bd.org",
+      "amounts": ["500 BDT", "1,000 BDT", "5,000 BDT", "10,000 BDT"]
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have a question or want to collaborate? We'd love to hear from you.",
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Your Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send Message",
+      "success": "Message sent! We'll respond within 24 hours.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "address": "Address",
+      "addressValue": "Dhaka, Bangladesh",
+      "email": "Email",
+      "emailValue": "info@ilf-bd.org",
+      "phone": "Phone",
+      "phoneValue": "+880 1700-000000",
+      "hours": "Office Hours",
+      "hoursValue": "Sunday–Thursday, 9:00 AM – 5:00 PM"
+    },
+    "social": "Follow Us On Social Media"
+  },
+  "footer": {
+    "tagline": "Building a Better Society Together",
+    "description": "A non-political social organization dedicated to creating positive, lasting change in communities across Bangladesh.",
+    "quickLinks": "Quick Links",
+    "activities": "Our Programs",
+    "contactUs": "Contact Us",
+    "rights": "All rights reserved.",
+    "nonPolitical": "Non-Political Social Organization",
+    "madeWith": "Made with"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "backToHome": "Back to Home",
+    "loading": "Loading...",
+    "joinUs": "Join Us",
+    "donateNow": "Donate Now"
+  }
+}
